@@ -1,1 +1,1 @@
-# animals
+# animals and pets
